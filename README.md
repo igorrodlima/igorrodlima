@@ -3,7 +3,7 @@
 
 - 🌱 No momento, estou aprendendo **Machine Learning**
 
-- 💬 Algumas de minhas competências **Python, Power BI e Excel**
+- 💬 Algumas de minhas competências **SQL, R Studio, Python, Power BI e Excel**
 
 - 📫 Você me encontra através do e-mail **igorrodlima03@gmail.com**
 
