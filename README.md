@@ -1,5 +1,5 @@
 
-<h1 align="center">Igor Lima</h1>
+<h1 align="center">Igor Rodrigues</h1>
 
 <p align="center">
 Statistician • Data Scientist • ML Engineer
